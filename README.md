@@ -1,6 +1,4 @@
-<h1 align="center" dir="auto">Hi!<img
-        src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-        style="max-width: 100%; display: inline-block; width:30px;"> I’m Arc 😄 </h1>
+### Hi 👋, I'm Arc 😄
 
 #### I'm a Computer Science undergraduate and have a keen interest in software engineering! 
 #### My experience is in making full-stack web applications especially in the Nodejs based tech stacks. 
