@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on Open source projects and my side projects which are mostly full-stack or backend based.
-- 🌱 I’m currently learning about distributed systems architecture and System design to build scalable, robust and performant applications.
+- 🌱 I’m currently learning about software architecture and system design.
 - 📫 How to reach me: aakarshan.mit@gmail.com
 
 **Languages and Tools:** 
