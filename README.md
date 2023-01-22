@@ -1,6 +1,10 @@
 ### Hi there 👋, I am Aakarshan 😄
 
-Hi! I'm a Computer Science undergraduate and have a keen interest in software engineering! My experience is in making full-stack web applications especially in the Nodejs based tech stacks. I'm extremely enthusiastic about learning to build high scale performant and data intensive applications, along with that I also study abotu the technological abstractions and the ever increasing complexity of software systems. I also keenly study how cloud based tech are being integrated into modern businesses. 
+Hi! I'm a Computer Science undergraduate and have a keen interest in software engineering! 
+My experience is in making full-stack web applications especially in the Nodejs based tech stacks. 
+I'm extremely enthusiastic about learning to build high scale performant and data intensive applications.
+I also study about the technological abstractions and the ever increasing complexity of modern software systems. 
+I like reading about cloud platforms and their computation modals in product and service based businesses. 
 
 
 - 🔭 I’m currently working on Open source projects and my side projects which are mostly full-stack/backend based.
