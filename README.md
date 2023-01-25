@@ -28,5 +28,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-black?logo=go&style=social)&nbsp;&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakarshan-369&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakarshan-369&hide=TeX&layout=compact&theme=midnight-purple)
 
