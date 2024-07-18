@@ -1,14 +1,12 @@
 ### Hi 👋, I'm Arc 😄
 
-#### I'm a Computer Science undergraduate and have a keen interest in software engineering! 
-#### My experience is in making full-stack web applications especially in the Nodejs based tech stacks. 
-#### I'm extremely enthusiastic about learning to build high scale performant and data intensive applications.
-#### I also study about the technological abstractions and the ever increasing complexity of modern software systems. 
-#### I like to read about cloud platforms and their computation models in product and service based businesses. 
+#### I'm a Software Engineer working on scaling distributed backend systems! 
+#### My Experience is in designing high performance backend systems and platforms to enable my org make impactful business decisions.
+#### Being at a B2C startup my engineering scope ranges from a deep analysis of the product, including its features and most empowering UX flows, to the design of systems with keen attention to resiliency, scalability, performance, cost efficiency and simplicity.
 
 
-- 🔭 I’m currently working on Open source projects and my side projects which are mostly full-stack or backend based.
-- 🌱 I’m currently learning about software architecture and system design.
+- 🔭 I’m currently working on Open source projects and my side projects which are mostly backend based.
+- 🌱 I’m currently learning about upcoming llms and the systems powering them at scale.
 - 📫 How to reach me: aakarshan.mit@gmail.com
 
 **Languages and Tools:** 
